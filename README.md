@@ -5,6 +5,7 @@ A simple calculator that includes:
 > - the repository includes a brief explanation of what each script does
 
 # misc
+> - if unable to run the code using a local python IDE. Feel free to paste the script on: https://www.programiz.com/python-programming/online-compiler/
 > - If you have any questions with the code, or want to give me feedback on how I can improve; the best place you can send them to me in is within my own personal discord server:
 >   https://discord.gg/p4GP9FAmWe
 >   + do note that I may take a long time to respond to anything, so when telling me anything please give me full information and give me blank sentences like "hello", please. 
