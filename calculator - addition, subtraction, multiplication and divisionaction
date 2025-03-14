@@ -1,0 +1,25 @@
+ options = input("list choice here: ")
+
+    if options in ["1", "2", "3", "4"]:
+        int1 = int(input("input your first integer: ")) 
+        int2 = int(input("input your second integer: "))
+
+    if options == "1":
+        result_given = int1 + int2
+        print(result_given)
+
+    elif options == "2":
+        result_given = int1 - int2
+        print(result_given)
+
+    elif options == "3":
+        result_given = int1 * int2
+        print(result_given)
+
+    elif options == "4":
+        if int1 or int2 == 0:
+            print("you can't divide a number by 0.")
+            show_choices = False
+        continue    
+        result_given = int1 / int2
+        print(result_given)
