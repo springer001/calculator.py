@@ -1,0 +1,18 @@
+import math
+
+show_choices = True
+
+while True:
+    if show_choices:
+        print("choose an operator(1-8): ")
+        print("(1): addition")
+        print("(2): subtraction")
+        print("(3): multiplication")
+        print("(4): division")
+        print("(5): exponentiate")
+        print("(6): sine")
+        print("(7): cosine")
+        print("(8): tangent")
+
+    options = input("list choice here: ")
+
