@@ -1,7 +1,7 @@
 # calculator.py - a project by springer01
 A simple calculator that includes:
 > - A looping script, which allows you to keep calculating questions rather than having to keep running the script over and over again
-> - includes the import math module, allowing me to add geometric calculations such as calculating sine, cosine, and tangent.
+> - includes the import math module, allowing me to add calculations such as calculating sine, cosine, and tangent.
 > - the repository includes a brief explanation of what each script does
 
 # misc
